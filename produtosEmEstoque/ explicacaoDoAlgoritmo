@@ -1,2 +1,3 @@
-O Algoritmo recebe valores dos tres lados de dois triangulos distintos,
-mede a area de cada usando metodos especificos e mostra qual o triangulo com a maior area
+O Algoritmo recebe informacoes de sobre um determinado produto,
+mostra essas informacoes na tela depois pede para o usuaria fazer uma entrada e uma saida no 
+estoque e mostra o update do produto na tela
