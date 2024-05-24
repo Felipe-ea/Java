@@ -1,0 +1,1 @@
+O algoritmo simula a abertura de uma conta no banco e o deposito e saque de uma quantia que o usuário digitar, vale a pena olhar o código foram implementadas técnicas de sobrecarga, construtores, encapsulamento e o uso de get e set para proteger os atributos privados.
